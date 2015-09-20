@@ -1,0 +1,7 @@
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\bin\Debug\ReadXmlExamples.exe.config
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\bin\Debug\cdCatalog.xml
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\bin\Debug\ReadXmlExamples.exe
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\bin\Debug\ReadXmlExamples.pdb
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\obj\Debug\ReadXmlExamples.csprojResolveAssemblyReference.cache
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\obj\Debug\ReadXmlExamples.exe
+c:\users\ev\documents\visual studio 2015\Projects\ReadXmlExamples\ReadXmlExamples\obj\Debug\ReadXmlExamples.pdb
